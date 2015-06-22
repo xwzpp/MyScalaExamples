@@ -32,9 +32,5 @@ object TupleAndArrayMapTest {
     for (elem <- array) {
       println(elem)
     }
-
-
-
-
   }
 }
